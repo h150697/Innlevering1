@@ -6,9 +6,7 @@ import static java.lang.Integer.*;
 public class B5 {
 
 	public static void main(String[] args) {
-		//int poeng = parseInt(showInputDialog("Skriv inn antall poeng: "));
-		//String karakter = "";
-		final int STUDENTER = 3;
+		final int STUDENTER = 10;
 		
 		for(int input = 1; input <= STUDENTER; input++) {
 			
